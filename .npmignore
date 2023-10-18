@@ -1,6 +1,6 @@
-node_modules/
-build/
-storybook-static/
+node_modules
+.idea
+util
 
 logs
 *.log
@@ -10,4 +10,4 @@ yarn-error.log*
 pnpm-debug.log*
 lerna-debug.log*
 
-.idea
+yarn.lock
