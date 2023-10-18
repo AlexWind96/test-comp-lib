@@ -4,5 +4,5 @@ module.exports = (componentName) => ({
   color: var(--harvey-green);
 }
 `,
-  extension: `.css`
-});
+  extension: `.css`,
+})
